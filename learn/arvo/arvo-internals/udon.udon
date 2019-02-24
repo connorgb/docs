@@ -599,7 +599,7 @@ PHP, ERB, JSP, or Handlebars templates. This facility derives
 in part from the support for embedding Hoon code inside the markup.
 
 
-You can Sail is a domain-specific language within Hoon for creating XML nodes,
+Sail is a domain-specific language within Hoon for creating XML nodes,
 including HTML. It can be used directly within Udon to provide
 scripting capability with Hoon and also to provide more precise control over the
 resulting HTML. The [Sail guide](../sail) is a good place to learn the
@@ -635,7 +635,8 @@ Produces:
   ==
 ==
 
-Publishing using Udon is really easy. It uses the file extension `.udon`. Here we'll create a very simple blog and publish our first posts.
+Publishing using Udon is really easy. It uses the file extension `.udon`. 
+Here we'll create a very simple blog and publish our first posts.
 
 First, let's setup a desk to serve our posts from:
 
